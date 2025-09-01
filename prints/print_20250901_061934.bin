@@ -3,7 +3,7 @@
 %APLProducer: (Version 15.5 (Build 24F74) Quartz PS Context)
 %%Title: (recepti.txt)
 %%Creator: (TextEdit: cgpdftops CUPS filter)
-%%CreationDate: (Monday, September 01 2025 05:54:28 IST)
+%%CreationDate: (Monday, September 01 2025 06:19:31 IST)
 %%For: (vineshp)
 %%DocumentData: Clean7Bit
 %%LanguageLevel: 2
@@ -15,7 +15,7 @@
 userdict/dscInfo 5 dict dup begin
 /Title(recepti.txt)def
 /Creator(TextEdit: cgpdftops CUPS filter)def
-/CreationDate(Monday, September 01 2025 05:54:28 IST)def
+/CreationDate(Monday, September 01 2025 06:19:31 IST)def
 /For(vineshp)def
 /Pages 1 def
 end put
@@ -789,10 +789,10 @@ userdict/ESPwl{}bind put
 cg_md begin
 bp
 sdmtx
-%RBIBeginFontSubset: YJJHSV+Helvetica
-%!FontType1-1.0: YJJHSV+Helvetica 1.0000.0.0000
+%RBIBeginFontSubset: WOOSYL+Helvetica
+%!FontType1-1.0: WOOSYL+Helvetica 1.0000.0.0000
 14 dict begin
-/FontName /YJJHSV+Helvetica def
+/FontName /WOOSYL+Helvetica def
 /PaintType 0 def
 /Encoding 256 array 0 1 255 {1 index exch/.notdef put} for
 dup 33 /equal put
@@ -957,8 +957,8 @@ currentfile eexec
 cleartomark
 %APLT1End
 %RBIEndFontSubset
-/YJJHSV+Helvetica cguidfix
-/F1.1/YJJHSV+Helvetica renmfont
+/WOOSYL+Helvetica cguidfix
+/F1.1/WOOSYL+Helvetica renmfont
 [ /CIEBasedABC 4 dict dup begin 
 /WhitePoint [ 0.9505 1.0000 1.0891 ] def 
 /DecodeABC [ 
